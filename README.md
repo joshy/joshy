@@ -4,5 +4,5 @@
 **joshy/joshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on deep learning/machine learning on medical images and various other stuff (data analysis, research prototypes)
+🔭 I’m currently working on deep learning/machine learning on medical images and various other stuff (data analysis, research prototypes)
 
